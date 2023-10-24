@@ -3,3 +3,4 @@ Dois textos
 Estamos no GitHub
 Vamos já descer para o GIT
 Agora vamos subir esse arquivo
+Vamos testar o merge 01
