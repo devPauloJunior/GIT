@@ -6,3 +6,4 @@ Agora vamos subir esse arquivo
 Vamos testar o merge 01
 Vamos testar o merge 02
 Vamos testar o merge 03
+Vamos testar o merge 04
