@@ -4,3 +4,4 @@ Estamos no GitHub
 Vamos já descer para o GIT
 Agora vamos subir esse arquivo
 Vamos testar o merge 01
+Vamos testar o merge 02
